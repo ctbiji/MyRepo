@@ -1,0 +1,3 @@
+Check a number is even or odd
+a=Input a number
+a= even if a MOD 2 =0 else a= odd
